@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554205192813",
+    "project_id": "prelimexamdelloson",
+    "storage_bucket": "prelimexamdelloson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554205192813:android:47b44d3ab02826c6c41564",
+        "android_client_info": {
+          "package_name": "ph.edu.uic.prelimexamdelloson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGJ6bELBf0hrrZIZRPtAiOQyK4asb4zP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
